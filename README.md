@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏦 Building Finance and various Fintech applications<br>👯‍♀️ I'm looking to collaborate on any Machine Learning related Finance applications<br>🌱 I'm currently learning [ADAMS](https://adams.cms.waikato.ac.nz/) (Advanced Data Mining and Machine Learning System) and [Incanter](https://github.com/incanter/incanter)<br>💬 Ask me about the intersection of Finance/Consulting and Computer Science<br>⚡️ Fun fact: I am a rocketry fan and even got my L1 Certification<br>
+🏦 Building Finance and various Fintech applications<br>👯‍♀️ I'm looking to collaborate on any Machine Learning related Finance applications<br>🌱 I'm currently learning [SciKit Learn](https://scikit-learn.org/stable/), [ADAMS](https://adams.cms.waikato.ac.nz/) (Advanced Data Mining and Machine Learning System), and [Incanter](https://github.com/incanter/incanter)<br>💬 Ask me about the intersection of Finance/Consulting and Computer Science<br>⚡️ Fun fact: I am a rocketry fan and even got my L1 Certification<br>
 
 
 ## 🌐 Socials:
